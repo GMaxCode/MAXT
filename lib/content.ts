@@ -128,7 +128,7 @@ export const process = {
       number: '02',
       title: 'Proposta',
       description:
-        'Escopo, prazo e valor claros por escrito. Sem surpresa.',
+        'Escopo, prazo e valor claro por escrito. Sem surpresa.',
     },
     {
       number: '03',
